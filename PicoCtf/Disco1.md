@@ -13,6 +13,6 @@ zcat disko-1.dd.gz | strings | grep "CTF{"
 Komutuyla bayrağı elde ederiz.
 
 ## Öğrendiklerim 
-1. .gz ile biten sıkıştırılmış dosyaları çıkarmadan sadece strings komutu ile okuyamayız.
+1. strings komutu .gz ile biten sıkıştırılmış dosyaları çıkarmadan okuyamayız.
 2. zcat dosyayı diskte açmadan içeriğini doğrudan okur ve bir sonraki komuta "akar" (stream) şeklinde gönderir.
    
