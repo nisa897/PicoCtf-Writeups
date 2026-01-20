@@ -11,7 +11,7 @@ unzip -p big-zip-files.zip | grep "pico"
 <img width="985" height="179" alt="image" src="https://github.com/user-attachments/assets/c36c5329-914c-416e-a741-e1890d7506a6" />
 
 ## Sonuç 
-Aldığımız çıktıda bayrağı picoCTF{gr3p_15_m4g1c_ef8790dc} olarak bulduk.
+Aldığımız çıktıda bayrağı bulduk.
 
 **Öğrendiklerim**
 1. unzip
