@@ -30,6 +30,9 @@ Terminalde
  ```bash
  echo 'yeni şifreli mesaj' | tr 'A-Za-Z' 'N-Z'
   ```
+  ```bash
+echo 'şifreli mesaj' | tr 'A-Za-Z' 'N-Z'
+```
   kodunu çalıştırıp bayrağı elde ediyoruz.
 
   **Öğrendiklerim
